@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jesus Gonzalez&#39;s Developer Profile</title>
-    <link>https://hugo-demo.github.io/categories/</link>
+    <link>https://gonzalezlrjesus.github.io/categories/</link>
     <description>Recent content in Categories on Jesus Gonzalez&#39;s Developer Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://hugo-demo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gonzalezlrjesus.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>contributions</title>
-      <link>https://hugo-demo.github.io/categories/contributions/</link>
+      <link>https://gonzalezlrjesus.github.io/categories/contributions/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://hugo-demo.github.io/categories/contributions/</guid>
+      <guid>https://gonzalezlrjesus.github.io/categories/contributions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>https://hugo-demo.github.io/categories/projects/</link>
+      <link>https://gonzalezlrjesus.github.io/categories/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://hugo-demo.github.io/categories/projects/</guid>
+      <guid>https://gonzalezlrjesus.github.io/categories/projects/</guid>
       <description></description>
     </item>
     

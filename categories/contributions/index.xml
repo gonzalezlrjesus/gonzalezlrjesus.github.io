@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>contributions on Jesus Gonzalez&#39;s Developer Profile</title>
-    <link>https://hugo-demo.github.io/categories/contributions/</link>
+    <link>https://gonzalezlrjesus.github.io/categories/contributions/</link>
     <description>Recent content in contributions on Jesus Gonzalez&#39;s Developer Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://hugo-demo.github.io/categories/contributions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gonzalezlrjesus.github.io/categories/contributions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contributions</title>
-      <link>https://hugo-demo.github.io/contributions/</link>
+      <link>https://gonzalezlrjesus.github.io/contributions/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://hugo-demo.github.io/contributions/</guid>
+      <guid>https://gonzalezlrjesus.github.io/contributions/</guid>
       <description></description>
     </item>
     
